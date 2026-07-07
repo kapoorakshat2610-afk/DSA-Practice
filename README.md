@@ -49,6 +49,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0704-binary-search) |
@@ -165,6 +166,7 @@
 | [0367-valid-perfect-square](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0908-smallest-range-i) |
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -243,6 +245,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0905-sort-array-by-parity) |
