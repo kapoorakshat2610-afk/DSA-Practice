@@ -148,6 +148,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0204-count-primes) |
 | [0908-smallest-range-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0908-smallest-range-i) |
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
@@ -291,4 +292,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
