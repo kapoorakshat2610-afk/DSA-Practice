@@ -35,6 +35,7 @@
 | [0162-find-peak-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -207,6 +210,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2404-most-frequent-even-element) |
