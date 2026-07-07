@@ -52,6 +52,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3163-string-compression-iii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3163-string-compression-iii) |
 ## Math
 |  |
 | ------- |
