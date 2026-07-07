@@ -178,5 +178,6 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0175-combine-two-tables) |
+| [0595-big-countries](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0595-big-countries) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
