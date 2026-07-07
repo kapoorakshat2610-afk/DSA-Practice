@@ -125,6 +125,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2293-min-max-game](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2293-min-max-game) |
@@ -151,6 +152,7 @@
 | [0050-powx-n](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2427-number-of-common-factors) |
 ## Two Pointers
 |  |
