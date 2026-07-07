@@ -52,6 +52,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0905-sort-array-by-parity](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0204-count-primes) |
+| [0908-smallest-range-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0908-smallest-range-i) |
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2427-number-of-common-factors](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2427-number-of-common-factors) |
