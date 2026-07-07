@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -17,6 +19,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Array
 |  |
 | ------- |
