@@ -35,6 +35,7 @@
 | [0455-assign-cookies](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0905-sort-array-by-parity](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0905-sort-array-by-parity) |
