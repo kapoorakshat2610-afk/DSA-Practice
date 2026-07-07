@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0088-merge-sorted-array) |
@@ -111,6 +112,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0088-merge-sorted-array) |
