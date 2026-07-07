@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0031-next-permutation) |
@@ -92,6 +93,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
