@@ -34,6 +34,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0922-sort-array-by-parity-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1590-make-sum-divisible-by-p) |
@@ -115,6 +116,7 @@
 | [0455-assign-cookies](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0922-sort-array-by-parity-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0922-sort-array-by-parity-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Queue
 |  |
