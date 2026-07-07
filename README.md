@@ -150,6 +150,7 @@
 | [0007-reverse-integer](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0908-smallest-range-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0908-smallest-range-i) |
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -198,6 +199,7 @@
 | [0392-is-subsequence](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0413-arithmetic-slices) |
+| [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -296,4 +298,9 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
