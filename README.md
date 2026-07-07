@@ -28,6 +28,7 @@
 | [0031-next-permutation](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0410-split-array-largest-sum) |
@@ -253,4 +255,8 @@
 | [0584-find-customer-referee](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0595-big-countries) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
