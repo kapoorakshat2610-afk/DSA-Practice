@@ -28,6 +28,7 @@
 | [0204-count-primes](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2365-task-scheduler-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2365-task-scheduler-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3488-closest-equal-element-queries) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3488-closest-equal-element-queries](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3488-closest-equal-element-queries) |
 ## Simulation
 |  |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Counting
 |  |
 | ------- |
@@ -112,4 +115,17 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
