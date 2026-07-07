@@ -35,6 +35,7 @@
 | [0152-maximum-product-subarray](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -89,6 +90,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -269,6 +272,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -323,6 +327,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0169-majority-element) |
 ## Recursion
 |  |
 | ------- |
