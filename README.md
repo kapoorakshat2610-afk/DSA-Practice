@@ -137,6 +137,7 @@
 | [0242-valid-anagram](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0567-permutation-in-string) |
@@ -176,6 +177,7 @@
 | [0344-reverse-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -192,6 +194,7 @@
 | [0053-maximum-subarray](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0413-arithmetic-slices) |
 ## Stack
