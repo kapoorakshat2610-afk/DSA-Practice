@@ -151,6 +151,7 @@
 | [0050-powx-n](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0908-smallest-range-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0908-smallest-range-i) |
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
@@ -300,9 +301,14 @@
 | ------- |
 | [0050-powx-n](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
