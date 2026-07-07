@@ -33,6 +33,7 @@
 | [0455-assign-cookies](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0905-sort-array-by-parity](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
@@ -144,6 +145,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
