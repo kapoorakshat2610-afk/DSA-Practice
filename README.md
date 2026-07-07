@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [2365-task-scheduler-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2365-task-scheduler-ii) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3488-closest-equal-element-queries) |
 ## Hash Table
 |  |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [2365-task-scheduler-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2365-task-scheduler-ii) |
+## String
+|  |
+| ------- |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 <!---LeetCode Topics End-->
