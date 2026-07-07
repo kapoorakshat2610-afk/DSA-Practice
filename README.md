@@ -165,6 +165,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2427-number-of-common-factors](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2427-number-of-common-factors) |
 | [3516-find-closest-person](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3516-find-closest-person) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [0204-count-primes](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2427-number-of-common-factors) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
