@@ -132,6 +132,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0344-reverse-string) |
@@ -170,6 +171,7 @@
 | [0031-next-permutation](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
