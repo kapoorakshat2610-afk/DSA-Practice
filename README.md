@@ -45,6 +45,7 @@
 | [0410-split-array-largest-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
