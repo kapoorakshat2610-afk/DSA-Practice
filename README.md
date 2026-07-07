@@ -115,6 +115,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -159,6 +160,7 @@
 | [0263-ugly-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0908-smallest-range-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0908-smallest-range-i) |
