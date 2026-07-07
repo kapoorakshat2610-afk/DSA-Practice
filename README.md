@@ -171,4 +171,8 @@
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
