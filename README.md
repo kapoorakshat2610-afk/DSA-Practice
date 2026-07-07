@@ -66,6 +66,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0443-string-compression) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0567-permutation-in-string) |
