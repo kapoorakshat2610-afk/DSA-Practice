@@ -31,6 +31,7 @@
 | [0035-search-insert-position](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -151,6 +152,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -373,6 +375,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
