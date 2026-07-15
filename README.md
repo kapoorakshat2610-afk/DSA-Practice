@@ -38,6 +38,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -265,6 +266,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0455-assign-cookies) |
 ## Sorting
