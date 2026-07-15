@@ -96,6 +96,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [2951-find-the-peaks](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2951-find-the-peaks) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3488-closest-equal-element-queries](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
@@ -383,4 +384,5 @@
 | [0059-spiral-matrix-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3142-check-if-grid-satisfies-conditions) |
 <!---LeetCode Topics End-->
