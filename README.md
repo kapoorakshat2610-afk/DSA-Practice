@@ -63,6 +63,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0658-find-k-closest-elements) |
@@ -115,6 +116,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0575-distribute-candies) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
