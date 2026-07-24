@@ -99,6 +99,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2293-min-max-game](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2293-min-max-game) |
 | [2365-task-scheduler-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2365-task-scheduler-ii) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2404-most-frequent-even-element) |
 | [2454-next-greater-element-iv](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2454-next-greater-element-iv) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -132,6 +133,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2365-task-scheduler-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2365-task-scheduler-ii) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0204-count-primes) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2951-find-the-peaks) |
 ## Number Theory
@@ -257,6 +260,7 @@
 | [0905-sort-array-by-parity](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
