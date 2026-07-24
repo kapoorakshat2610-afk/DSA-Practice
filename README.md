@@ -104,6 +104,7 @@
 | [2454-next-greater-element-iv](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2454-next-greater-element-iv) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2540-minimum-common-value) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2951-find-the-peaks](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3142-check-if-grid-satisfies-conditions) |
