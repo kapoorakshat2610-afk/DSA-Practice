@@ -99,6 +99,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2293-min-max-game](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2293-min-max-game) |
@@ -198,6 +199,7 @@
 | [0443-string-compression](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3163-string-compression-iii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3163-string-compression-iii) |
 ## Math
@@ -329,6 +331,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2454-next-greater-element-iv](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2454-next-greater-element-iv) |
@@ -368,6 +371,7 @@
 | [0658-find-k-closest-elements](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2454-next-greater-element-iv](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2454-next-greater-element-iv) |
 ## Prefix Sum
 |  |
@@ -406,6 +410,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Recursion
 |  |
 | ------- |
@@ -459,6 +464,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
