@@ -101,6 +101,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -186,6 +187,7 @@
 | [0258-add-digits](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0258-add-digits) |
 | [0946-validate-stack-sequences](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0946-validate-stack-sequences) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2293-min-max-game](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2293-min-max-game) |
 | [2365-task-scheduler-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2365-task-scheduler-ii) |
