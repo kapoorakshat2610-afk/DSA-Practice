@@ -37,6 +37,7 @@
 | [0054-spiral-matrix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0088-merge-sorted-array) |
@@ -253,6 +254,7 @@
 | [0027-remove-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -313,6 +315,7 @@
 | [0015-3sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -480,4 +483,12 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
