@@ -90,6 +90,7 @@
 | [0946-validate-stack-sequences](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -339,6 +340,7 @@
 | [0905-sort-array-by-parity](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -498,4 +500,9 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
