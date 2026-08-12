@@ -6,6 +6,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
@@ -23,12 +25,14 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
