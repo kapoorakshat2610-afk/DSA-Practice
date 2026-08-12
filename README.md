@@ -121,6 +121,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3488-closest-equal-element-queries](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3488-closest-equal-element-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
@@ -153,6 +154,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3488-closest-equal-element-queries](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3488-closest-equal-element-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
@@ -371,6 +373,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2404-most-frequent-even-element) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -411,6 +414,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -436,6 +440,7 @@
 | [0493-reverse-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -474,12 +479,14 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
