@@ -11,6 +11,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Depth-First Search
@@ -23,6 +24,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Breadth-First Search
@@ -32,6 +34,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
@@ -43,6 +46,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Array
 |  |
