@@ -157,6 +157,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2293-min-max-game](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2293-min-max-game) |
 | [2365-task-scheduler-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2365-task-scheduler-ii) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2367-number-of-arithmetic-triplets) |
@@ -197,6 +198,7 @@
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2365-task-scheduler-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2365-task-scheduler-ii) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2404-most-frequent-even-element) |
@@ -426,6 +428,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2404-most-frequent-even-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
@@ -519,6 +522,7 @@
 | [0231-power-of-two](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0342-power-of-four) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
 ## Matrix
 |  |
 | ------- |
