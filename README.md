@@ -117,6 +117,7 @@
 | [0283-move-zeroes](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0318-maximum-product-of-word-lengths](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -264,6 +265,7 @@
 | [0125-valid-palindrome](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0318-maximum-product-of-word-lengths](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0392-is-subsequence) |
@@ -529,6 +531,7 @@
 | [0136-single-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0342-power-of-four) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
 ## Matrix
