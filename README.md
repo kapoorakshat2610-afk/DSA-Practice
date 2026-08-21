@@ -151,6 +151,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1352-product-of-the-last-k-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -272,6 +273,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1859-sorting-the-sentence](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -533,6 +535,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0342-power-of-four) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
 ## Matrix
 |  |
@@ -605,4 +608,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 <!---LeetCode Topics End-->
