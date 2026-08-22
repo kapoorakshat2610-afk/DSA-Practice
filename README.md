@@ -309,6 +309,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3516-find-closest-person) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
