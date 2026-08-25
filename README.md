@@ -186,6 +186,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3488-closest-equal-element-queries](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3488-closest-equal-element-queries) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
@@ -220,6 +221,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3488-closest-equal-element-queries](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3488-closest-equal-element-queries) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
