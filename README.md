@@ -20,6 +20,7 @@
 | [0226-invert-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -41,6 +42,7 @@
 | [0226-invert-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -83,6 +85,7 @@
 | [0226-invert-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
@@ -646,4 +649,5 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
