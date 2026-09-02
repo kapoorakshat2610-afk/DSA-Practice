@@ -24,6 +24,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -47,6 +48,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -90,6 +92,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
