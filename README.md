@@ -194,6 +194,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -318,6 +319,7 @@
 | [3516-find-closest-person](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
