@@ -322,6 +322,7 @@
 | [0007-reverse-integer](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0231-power-of-two) |
@@ -399,6 +400,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0392-is-subsequence) |
@@ -574,6 +576,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
