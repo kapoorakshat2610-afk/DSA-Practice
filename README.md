@@ -334,6 +334,7 @@
 | [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0908-smallest-range-i) |
+| [1137-n-th-tribonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -405,6 +406,7 @@
 | [0413-arithmetic-slices](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0968-binary-tree-cameras](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0968-binary-tree-cameras) |
+| [1137-n-th-tribonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -573,6 +575,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
