@@ -187,6 +187,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1352-product-of-the-last-k-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
@@ -243,6 +244,7 @@
 | [0567-permutation-in-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0575-distribute-candies) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1122-relative-sort-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
@@ -470,6 +472,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1859-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -652,17 +655,20 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1859-sorting-the-sentence](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1859-sorting-the-sentence) |
 ## Counting Sort
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1122-relative-sort-array) |
 ## Radix Sort
 |  |
 | ------- |
