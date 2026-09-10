@@ -32,6 +32,7 @@
 | [0968-binary-tree-cameras](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -58,6 +59,7 @@
 | [0968-binary-tree-cameras](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -107,6 +109,7 @@
 | [0968-binary-tree-cameras](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Array
 |  |
