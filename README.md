@@ -219,6 +219,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3488-closest-equal-element-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -257,6 +258,7 @@
 | [2540-minimum-common-value](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3488-closest-equal-element-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -363,6 +365,7 @@
 | [2427-number-of-common-factors](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -582,6 +585,7 @@
 | [0326-power-of-three](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
