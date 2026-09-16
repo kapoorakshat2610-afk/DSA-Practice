@@ -121,6 +121,7 @@
 | [0001-two-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0018-4sum) |
@@ -316,6 +317,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -715,4 +717,8 @@
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0968-binary-tree-cameras) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
