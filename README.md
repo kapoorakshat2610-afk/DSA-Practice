@@ -203,6 +203,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1590-make-sum-divisible-by-p) |
@@ -258,6 +259,7 @@
 | [1122-relative-sort-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -300,6 +302,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2454-next-greater-element-iv](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2454-next-greater-element-iv) |
 | [2540-minimum-common-value](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2540-minimum-common-value) |
@@ -432,6 +435,7 @@
 | [0509-fibonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0968-binary-tree-cameras](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0968-binary-tree-cameras) |
 | [1137-n-th-tribonacci-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -527,6 +531,7 @@
 | [0658-find-k-closest-elements](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
