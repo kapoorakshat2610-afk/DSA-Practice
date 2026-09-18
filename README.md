@@ -27,6 +27,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -57,6 +58,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -107,6 +109,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -721,6 +724,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## DP on Trees
