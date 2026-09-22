@@ -146,6 +146,7 @@
 | [0042-trapping-rain-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
@@ -725,6 +726,7 @@
 | ------- |
 | [0046-permutations](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0090-subsets-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -755,4 +757,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0014-longest-common-prefix) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
