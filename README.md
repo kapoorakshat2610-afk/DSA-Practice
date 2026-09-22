@@ -144,6 +144,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
@@ -720,6 +721,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0090-subsets-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
