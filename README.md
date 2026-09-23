@@ -225,6 +225,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1929-concatenation-of-array) |
@@ -280,6 +281,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2365-task-scheduler-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2365-task-scheduler-ii) |
@@ -321,6 +323,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2454-next-greater-element-iv](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2454-next-greater-element-iv) |
 | [2540-minimum-common-value](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2540-minimum-common-value) |
@@ -553,6 +556,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
@@ -580,6 +584,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
