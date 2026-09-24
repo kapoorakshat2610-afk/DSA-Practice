@@ -251,6 +251,7 @@
 | [3142-check-if-grid-satisfies-conditions](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3488-closest-equal-element-queries) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -389,6 +390,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3516-find-closest-person) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3870-count-commas-in-range) |
