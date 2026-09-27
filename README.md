@@ -143,6 +143,7 @@
 | [0031-next-permutation](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0046-permutations) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -657,6 +659,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
