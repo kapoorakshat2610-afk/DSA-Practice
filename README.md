@@ -143,6 +143,7 @@
 | [0031-next-permutation](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0047-permutations-ii) |
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -655,6 +657,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -731,6 +734,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0051-n-queens) |
@@ -768,6 +772,11 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
