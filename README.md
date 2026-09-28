@@ -218,6 +218,7 @@
 | [0946-validate-stack-sequences](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0980-unique-paths-iii) |
 | [1046-last-stone-weight](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1122-relative-sort-array) |
@@ -661,6 +662,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0342-power-of-four) |
+| [0980-unique-paths-iii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0980-unique-paths-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
 ## Matrix
@@ -673,6 +675,7 @@
 | [0074-search-a-2d-matrix](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0733-flood-fill) |
+| [0980-unique-paths-iii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0980-unique-paths-iii) |
 | [2965-find-missing-and-repeated-values](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Binary Indexed Tree
@@ -752,6 +755,7 @@
 | [0052-n-queens-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0980-unique-paths-iii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0980-unique-paths-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Linked List
 |  |
@@ -802,4 +806,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
