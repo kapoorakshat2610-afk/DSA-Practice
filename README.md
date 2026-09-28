@@ -363,6 +363,7 @@
 | [0443-string-compression](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1859-sorting-the-sentence](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -475,6 +476,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0946-validate-stack-sequences](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0946-validate-stack-sequences) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2454-next-greater-element-iv](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2454-next-greater-element-iv) |
 ## Monotonic Stack
@@ -792,4 +794,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0547-number-of-provinces) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
