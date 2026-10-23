@@ -265,6 +265,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3488-closest-equal-element-queries) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -674,6 +675,7 @@
 | [0980-unique-paths-iii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/0980-unique-paths-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2206-divide-array-into-equal-pairs) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
