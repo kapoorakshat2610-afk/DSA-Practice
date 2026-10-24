@@ -379,6 +379,7 @@
 | [1859-sorting-the-sentence](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2409-count-days-spent-together](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3163-string-compression-iii](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3163-string-compression-iii) |
 ## Math
@@ -405,6 +406,7 @@
 | [1512-number-of-good-pairs](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2235-add-two-integers](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2427-number-of-common-factors) |
 | [2965-find-missing-and-repeated-values](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kapoorakshat2610-afk/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
